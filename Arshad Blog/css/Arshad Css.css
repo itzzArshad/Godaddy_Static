@@ -1,0 +1,125 @@
+body{
+  background-image: linear-gradient(60deg, #2d388a, #00aeef)
+	color:#555;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:3;
+}
+
+.box-1{
+	background-color:#000137;
+	color:#fff;
+
+	border-bottom:5px yellow solid;
+	border-top:5px red solid;
+	border-left:5px green solid;
+	border-right:5px blue solid;
+}
+
+.container{
+	width:50%;
+	margin:auto;
+	text-align: center;
+}
+
+.categories{
+	border: 2px #ccc solid;
+	padding: 10px;
+	border-radius: 15px;
+}
+
+.categories{
+	font-size: 16px;
+	text-align: center;
+}
+
+
+.categories h3{
+	font-size: 25px;
+	text-align: center;
+}
+
+
+.intro {
+	padding-bottom:6px;
+	border-bottom: dotted 1px #333;
+}
+
+.intro p{
+	font-size: 25px;
+	text-align: center;
+}
+
+.edu p{
+	font-size: 25px;
+	text-align: center;
+}
+
+.edu{
+	padding-bottom:6px;
+	border-bottom: dotted 1px #333;
+}
+
+.edu thead{
+  background-color:darkblue;
+  color:white;
+}
+
+.edu td{
+  background-color:#000137;
+  color:white;
+  text-align: center;
+}
+
+.skills p{
+	font-size: 25px;
+	text-align: center;
+}
+
+.skills{
+	padding-bottom:6px;
+	border-bottom: dotted 1px #333;
+}
+
+.goals p{
+	font-size: 25px;
+	text-align: center;
+}
+
+
+.goals{
+	padding-bottom:6px;
+	border-bottom: dotted 1px #333;
+}
+
+.favourite p{
+	font-size: 25px;
+	text-align: center;
+}
+
+.favourite{
+	padding-bottom:6px;
+	border-bottom: dotted 1px #333;
+}
+
+.thanks p{
+	text-align: center;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.thanks{
+	text-align: center;
+	font-size: 25px;
+}
+
+.favourite{
+	padding-bottom: 6px;
+	border-bottom: dotted 1px #333;
+}
+
+.footer p{
+	text-align: center;
+	font-size: 18px;
+}
